@@ -12,11 +12,11 @@
 #### *Design choices and breakdown of the main functions:*
 ##### There are a total of five different functions at the moment:
 
-##### *Add:* adding a task (command: todo add)
-##### *Delete:* deleting a task (command: todo del)
-##### *Editing Status:* editing the complete/incomplete status of a task (command: todo estatus)
-##### *Editing Task:* editing a task (command: todo etask)
-##### *See:* viewing all current tasks (command: todo see)
+##### - *Add:* adding a task (command: todo add)
+##### - *Delete:* deleting a task (command: todo del)
+##### - *Editing Status:* editing the complete/incomplete status of a task (command: todo estatus)
+##### - *Editing Task:* editing a task (command: todo etask)
+##### - *See:* viewing all current tasks (command: todo see)
 
 ##### I decided to list each task with their ID and status.
 
