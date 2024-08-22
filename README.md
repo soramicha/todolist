@@ -25,6 +25,3 @@
 
 #### *Future Improvement:*
 ##### I hope to use this program for myself, and with that being said, there are a lot of things I would want to do. I want to change the formatting of the table to make it look more organized, and add some color on text if I can. I also want to add more functions, such as sorting all tasks that are complete or incomplete. I also want to further hopefully expand this into an actual app or make a website version of the todo list.
-
-#### Personal Note:
-##### Overall, the CS50 course was a very eyeopening and educational experience for me. I enjoyed it a lot, and I was introduced to so many new things. I enjoyed learning languages the most.
